@@ -10,6 +10,7 @@ body {
     z-index: 9999;
     top: 0;
 }
+
 .profile p {
     transform: translateY(-10px);
 }
