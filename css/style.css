@@ -1,5 +1,7 @@
+@import url ('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&family=Roboto&display=swap');
+
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
     background-color: #f8f9fa;
     color: #343a40;
     scroll-behavior: smooth;
